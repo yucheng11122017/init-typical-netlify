@@ -1,0 +1,24 @@
+{
+  "enableSearch": true,
+  "pages": [
+    {
+      "headings": {
+        "hello-world": "Hello world"
+      },
+      "title": "Hello World",
+      "footer": "footer.md",
+      "header": "header.md",
+      "siteNav": "site-nav.md",
+      "src": "index.md",
+      "layout": "default"
+    },
+    {
+      "headings": {
+        "webrepo": "webrepo"
+      },
+      "src": "README.md",
+      "title": "",
+      "layout": "default"
+    }
+  ]
+}
