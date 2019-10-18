@@ -6,9 +6,14 @@
     "auditLog": "_markbind/logs/.4a27e4dd4d52b0b210ca13b42ac22c488093fce8-audit.json",
     "files": [
         {
-            "date": 1570956121118,
-            "name": "_markbind/logs/markbind-2019-10-13.log",
-            "hash": "9e7ed190beee678213bfda5258b0081d"
+            "date": 1565611872886,
+            "name": "_markbind/logs/markbind-2019-08-12.log",
+            "hash": "2aa2488d869407bc79e352190a7ddac1"
+        },
+        {
+            "date": 1571410304293,
+            "name": "_markbind/logs/markbind-2019-10-18.log",
+            "hash": "955d8918349055dcf271f2a4eba86078"
         }
     ]
 }

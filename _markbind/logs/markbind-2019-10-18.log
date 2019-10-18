@@ -1,0 +1,9 @@
+2019-10-18T14:51:44.299Z - info: Website generation started at 22:51:44
+2019-10-18T14:51:44.315Z - info: Building assets...
+2019-10-18T14:51:44.317Z - info: Assets built
+2019-10-18T14:51:44.317Z - info: Generating pages...
+2019-10-18T14:51:44.539Z - info: Pages built
+2019-10-18T14:51:44.573Z - info: Website generation complete! Total build time: 0.278s
+2019-10-18T14:51:44.589Z - info: Serving "/home/crphang/webrepo2/_site" at http://127.0.0.1:8080
+2019-10-18T14:51:44.589Z - info: Press CTRL+C to stop ...
+2019-10-18T14:51:44.623Z - info: Site data built
