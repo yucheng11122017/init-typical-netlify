@@ -1,3 +1,5 @@
 [build]
   base    = "/"
   publish = "_site"
+  command = "markbind build"
+  environment = { NPM_FLAGS = "-g", NODE_VERSION = "8.16.1", NPM_VERSION = "6.4.1" }

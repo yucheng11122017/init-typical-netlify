@@ -1,0 +1,8 @@
+{
+    "name": "markbind-default-template",
+    "version": "2.5.3",
+    "description": "Default Template for markbind",
+    "dependencies": {
+        "markbind-cli": "2.5.3"
+    }
+}
