@@ -33,3 +33,20 @@
 2019-10-18T15:13:33.583Z - info: [23:13:33] Reload for file change: /home/crphang/webrepo/netlify.toml
 2019-10-18T15:13:33.804Z - info: [23:13:33] Reload for file change: /home/crphang/webrepo/netlify.toml
 2019-10-18T15:13:34.584Z - info: Assets built
+2019-10-18T15:17:28.409Z - info: Website generation started at 23:17:28
+2019-10-18T15:17:28.435Z - info: Building assets...
+2019-10-18T15:17:28.444Z - info: Assets built
+2019-10-18T15:17:28.444Z - info: Generating pages...
+2019-10-18T15:17:28.675Z - info: Pages built
+2019-10-18T15:17:28.706Z - info: Website generation complete! Total build time: 0.301s
+2019-10-18T15:17:28.706Z - info: Build success!
+2019-10-18T15:17:28.727Z - info: Site data built
+2019-10-18T15:17:32.470Z - info: Website generation started at 23:17:32
+2019-10-18T15:17:32.488Z - info: Building assets...
+2019-10-18T15:17:32.498Z - info: Assets built
+2019-10-18T15:17:32.498Z - info: Generating pages...
+2019-10-18T15:17:32.754Z - info: Pages built
+2019-10-18T15:17:32.786Z - info: Website generation complete! Total build time: 0.327s
+2019-10-18T15:17:32.802Z - info: Serving "/home/crphang/webrepo/_site" at http://127.0.0.1:8080
+2019-10-18T15:17:32.802Z - info: Press CTRL+C to stop ...
+2019-10-18T15:17:32.807Z - info: Site data built

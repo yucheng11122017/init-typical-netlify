@@ -4,5 +4,8 @@
     "description": "Default Template for markbind",
     "dependencies": {
         "markbind-cli": "2.5.3"
+    },
+    "scripts": {
+        "build": "markbind build your_site your_site/_site"
     }
 }
