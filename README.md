@@ -2,7 +2,7 @@
 
 Deploy to netlify to a new repository using the button below
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Crphang/webrepo)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/MarkBind/init-typical-netlify)
 
 # Getting Started
 
